@@ -166,3 +166,55 @@ enjoyability: 0.5
 question: What is the name of the villain in the Christmas opera 'Amahl and the Night Visitors'?
 answer: King Herod.
 enjoyability: 0.5
+---
+question: What medieval Christmas tradition involved a mock king known as the "Lord of Misrule"?
+answer: The Lord of Misrule oversaw the revelry, often involving role reversals and chaos during Christmas feasts.
+enjoyability: 0.6
+---
+question: Which country celebrates Christmas by watching "Donald Duck and His Friends Wish You a Merry Christmas" on TV?
+answer: Sweden.
+enjoyability: 0.9
+---
+question: Why is Christmas Island, in the Indian Ocean, named so?
+answer: It was discovered by Captain William Mynors on Christmas Day in 1643.
+enjoyability: 0.75
+---
+question: What is the etymology of the word "Xmas"?
+answer: The "X" derives from the Greek letter Chi, the first letter in "Christos," meaning Christ.
+enjoyability: 0.8
+---
+question: In Victorian England, what eerie genre of stories was a popular Christmas pastime?
+answer: Ghost stories.
+enjoyability: 0.85
+---
+question: What ancient Roman calendar reform is indirectly responsible for Christmas falling on December 25th?
+answer: The Julian Calendar, established by Julius Caesar in 45 BCE, aligned December 25th with the winter solstice festivals.
+enjoyability: 0.6
+---
+question: Which obscure Christmas carol contains the lyrics "the boar's head in hand bear I"?
+answer: "The Boar’s Head Carol", a traditional English carol sung during feasts.
+enjoyability: 0.55
+---
+question: What was the original purpose of candy canes when invented in the 17th century?
+answer: To keep children quiet during Christmas church services.
+enjoyability: 0.9
+---
+question: What unusual natural phenomenon was recorded on Christmas Day in 1066 in England?
+answer: A blood-red sky, interpreted as an omen following William the Conqueror’s coronation.
+enjoyability: 0.5
+---
+question: What is the purpose of "Christmas weevils" in Australian folklore?
+answer: These imaginary creatures are said to "clean up" crumbs from festive meals.
+enjoyability: 0.3
+---
+question: What was the first planet to broadcast a Christmas message from space?
+answer: The Moon—Apollo 8 astronauts read from Genesis on Christmas Eve in 1968.
+enjoyability: 0.85
+---
+question: Why was the Puritan government of the Massachusetts Bay Colony opposed to Christmas celebrations?
+answer: They viewed it as a pagan-inspired, unbiblical holiday.
+enjoyability: 0.6
+---
+question: What peculiar Christmas tradition exists in Catalonia involving a pooping log?
+answer: Tió de Nadal, a log that "defecates" small gifts when beaten with sticks.
+enjoyability: 0.95
