@@ -119,8 +119,8 @@ question: In the song 'The Twelve Days of Christmas', what gift is given on the 
 answer: Seven swans a-swimming.
 enjoyability: 0.6
 ---
-question: What is the name of the reindeer that was originally called 'Dunder' in ''Twas the Night Before Christmas'?
-answer: Donner.
+question: What is the name of the reindeer that was originally called 'Dunder' in 'Twas the Night Before Christmas'?
+answer: Donner. ('Dunder' and 'Blixem' became 'Donner' and 'Blitzen'.)
 enjoyability: 0.6
 ---
 question: What type of tree was the first artificial Christmas tree made from?
