@@ -1,0 +1,15 @@
+{{#expect question, answer, answers }}
+
+Here is a trivia question:
+
+> {{{ question }}}
+
+Here is the actual answer:
+
+> {{{ answer }}}
+
+Given the following list of provided answers, which one is linguistically closest to the actual answer? Respond only with the answer and a brief description of how it relates to the actual answer.
+
+{{#each answers as a}}
+- {{{ a }}}
+{{/each}}
