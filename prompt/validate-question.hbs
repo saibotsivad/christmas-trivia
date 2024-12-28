@@ -1,0 +1,19 @@
+{{#expect question, answer }}
+
+Here's a trivia question:
+
+> {{{ question }}}
+
+And here's the answer, which may or may not be correct:
+
+> {{{ answer }}}
+
+Respond with a JSON object where the key is `accuracy` and the value is a ratio (0 to 1), where `0` is very inaccurate and `1` is highly accurate.
+
+For example:
+
+```json
+{ "accuracy": 0.3 }
+```
+
+The accuracy should be based on linguistic and conceptual connection, not on rigorous character-for-character comparison.
